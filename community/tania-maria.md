@@ -94,7 +94,7 @@ O comando git pull é usado para obter as atualizações de um repositório remo
 
 Essa operação pode causar conflitos que você precisará resolver manualmente.
 
-## 📚 Documentação
+## 📚 Documentação.
 - [Documentação Git](https://git-scm.com/doc)
 - [Documentação GitHub](https://docs.github.com)
 - [Editor de texto para Git](https://readme.so/pt/editor)
