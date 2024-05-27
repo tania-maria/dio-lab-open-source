@@ -102,7 +102,7 @@ Essa operação pode causar conflitos que você precisará resolver manualmente.
 ORACLE, PL/SQL, MSQL, HTML, PHP, JAVA, LINUX.
 
 
-### Contatos
+### Contatos.
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:tania.dd2@gmail.com)
 
